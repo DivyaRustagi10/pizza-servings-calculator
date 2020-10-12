@@ -1,14 +1,3 @@
-/*
- Author: Divya Rustagi
-
- The following code creates a pizza servings calculator based on GUI programming. 
- The program accepts an input for pizza diameter (in inches) from the user and returns an output 
- for number of servings from the pizza. User clicks on the calculate button to generate the
- servings result. 
-
- Calculation for pizza servings is based on the area of an 8" pie taken as one serving.
- */
-
 package pizzaservingscalculator;
 
 import javax.swing.*;
